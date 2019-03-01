@@ -4,7 +4,7 @@ import (
 	"sync/atomic"
 
 	"github.com/VolantMQ/vlapi/mqttp"
-	"github.com/VolantMQ/volantmq/types"
+	"../types"
 )
 
 type metricEntry struct {

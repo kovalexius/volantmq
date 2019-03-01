@@ -3,8 +3,8 @@ package transport
 import (
 	"net"
 
-	"github.com/VolantMQ/volantmq/auth"
-	"github.com/VolantMQ/volantmq/systree"
+	"../auth"
+	"../systree"
 	"github.com/troian/easygo/netpoll"
 )
 

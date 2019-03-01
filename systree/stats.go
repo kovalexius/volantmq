@@ -3,7 +3,7 @@ package systree
 import (
 	"sync/atomic"
 
-	"github.com/VolantMQ/volantmq/types"
+	"../types"
 )
 
 type stat struct {

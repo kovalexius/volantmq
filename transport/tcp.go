@@ -5,11 +5,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/VolantMQ/volantmq/types"
+	"../types"
 	"go.uber.org/zap"
 
-	"github.com/VolantMQ/volantmq/configuration"
-	"github.com/VolantMQ/volantmq/systree"
+	"../configuration"
+	"../systree"
 )
 
 // ConfigTCP configuration of tcp transport

@@ -8,8 +8,8 @@ import (
 
 	"github.com/VolantMQ/vlapi/mqttp"
 	"github.com/VolantMQ/vlapi/subscriber"
-	"github.com/VolantMQ/volantmq/configuration"
-	"github.com/VolantMQ/volantmq/topics/types"
+	"../configuration"
+	"../topics/types"
 )
 
 // Config subscriber config options

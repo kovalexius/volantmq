@@ -4,9 +4,9 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/VolantMQ/volantmq/auth"
-	"github.com/VolantMQ/volantmq/systree"
-	"github.com/VolantMQ/volantmq/types"
+	"../auth"
+	"../systree"
+	"../types"
 	"github.com/troian/easygo/netpoll"
 	"go.uber.org/zap"
 )

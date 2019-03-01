@@ -10,9 +10,9 @@ import (
 
 	"github.com/VolantMQ/vlapi/mqttp"
 	"github.com/VolantMQ/vlapi/plugin/persistence"
-	"github.com/VolantMQ/volantmq/systree"
-	"github.com/VolantMQ/volantmq/transport"
-	"github.com/VolantMQ/volantmq/types"
+	"../systree"
+	"../transport"
+	"../types"
 	"github.com/pkg/errors"
 	"go.uber.org/zap"
 )

@@ -4,7 +4,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/VolantMQ/volantmq/subscriber"
+	"../subscriber"
 )
 
 var subCount int32 = 0

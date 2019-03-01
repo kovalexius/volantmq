@@ -7,7 +7,7 @@ import (
 
 	"github.com/VolantMQ/vlapi/mqttp"
 	"github.com/VolantMQ/vlapi/plugin/persistence"
-	"github.com/VolantMQ/volantmq/types"
+	"../types"
 )
 
 type expiryEvent interface {
